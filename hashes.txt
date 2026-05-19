@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Heart Dealer
+
+This log tracks the cryptographic history and versioning for the song **Heart Dealer** (heart-dealer).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-19T23:20:10.834577 | `v1` | `aa5d420bf388c920b0876b70a412c1318ef0b0e8785fb4bd8166ad30d1f7a728` | `615c4630cf41a40b61208e1a9843c471876cc454b315a1b5bd72b43903d36bee` | `2026-05-19_heart-dealer-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
