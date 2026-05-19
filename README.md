@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-dealer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Heart Dealer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-dealer/) |
+| **Get License** | [License this song: Heart Dealer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-dealer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nasha teri akhaan da main pee laya zaroor,
+> Sambhla na khud nu eh kaisa fitoor.
+> Nede aaja mere dil de crossing the line,
+> Haneri raatan vich shining so fine.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
