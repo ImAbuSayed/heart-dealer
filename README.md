@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heart-dealer/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Heart Dealer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-dealer/) |
+| **Get License** | [Obtain a Music License for Heart Dealer](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heart-dealer/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/1692)
 
 ---
 
